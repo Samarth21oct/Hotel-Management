@@ -72,6 +72,3 @@ The **Hotel Management System** is a comprehensive software designed to manage h
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the system.
 
 ---
-
-## License
-This project is licensed under the MIT License.
